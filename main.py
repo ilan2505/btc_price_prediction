@@ -2,7 +2,7 @@ from data_loader import get_btc_data
 from visualization import plot_btc_data
 from feature_engineering import add_features, save_features
 
-#main to plot the BTC price and save features.
+# Main to plot the BTC price and save features.
 if __name__ == "__main__":
     # Load Bitcoin data
     btc_data = get_btc_data(start_date="2010-07-17", end_date="2024-12-16")
