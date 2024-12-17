@@ -1,5 +1,5 @@
 # Author
-Ilan Meyer Souffir
+Ilan Meyer Souffir.
 
 # btc_price_prediction
 This is a long time project which I will constantly modify after each new study on bitcoin price in order to obtain the best results.<br>
